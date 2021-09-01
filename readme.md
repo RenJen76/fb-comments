@@ -2,3 +2,4 @@
 
 - 右鍵複製文章URL
 
+![image](https://github.com/RenJen76/fb-comments/blob/master/image/post-url.jpg)
